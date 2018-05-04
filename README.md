@@ -1,2 +1,4 @@
 # hello-world
-My first respository
+
+Hi Humans!
+Bobbott here.
